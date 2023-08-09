@@ -1,15 +1,15 @@
 SimShop Api 
 
 Technology and design patterns : 
-MS SQL 
-Swagger
-Asp.Net Core Web Api
-Unit Of Work
-Dependcy Injection
-Generic Repository 
-IoC
-Code first database design
-Jwt token for identity
+MS SQL -
+Swagger -
+Asp.Net Core Web Api -
+Unit Of Work -
+Dependcy Injection - 
+Generic Repository -
+IoC -
+Code first database design -
+Jwt token for identity 
 
 Postman documantation link : https://documenter.getpostman.com/view/27227009/2s93z6cP6Q
 
