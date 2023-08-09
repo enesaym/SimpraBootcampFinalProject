@@ -7,7 +7,7 @@ Code first veritabanlarının olusturulması için powershell arayüzüne asagı
 dotnet ef database update --project "./SimShop” --startup-project "./SimShop"
 
 Adım 1:
-![image](https://github.com/P259-Simpra-NET-Bootcamp/final-enesaym/assets/89969736/02eb9020-8166-45f1-9ad6-381e75988d58)
+![login](https://github.com/enesaym/SimpraBootcampFinalProject/assets/89969736/a1e72661-5485-4c62-9c91-b84b00a49267)
 Sistem senaryosu admin yetkisine sahip kullanıcının admin,admin kullanıcı adı ve şifresini girerek login olması ile başlar. 
 Get : Giriş yapmış kullanıcının bilgilerini getirir.
 Post(SingIn): Kullanıcının giriş yaparak accessToken almasını sağlar.
